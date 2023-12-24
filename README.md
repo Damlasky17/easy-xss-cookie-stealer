@@ -11,3 +11,5 @@
 This code is based on what can be seen here: [Write an XSS Cookie Stealer in JavaScript to Steal Passwords](https://null-byte.wonderhowto.com/how-to/write-xss-cookie-stealer-javascript-steal-passwords-0180833/)
 
 It explains in details what it's doing.
+
+
